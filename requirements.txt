@@ -1,0 +1,10 @@
+openai
+qdrant-client
+sentence-transformers
+crewai
+streamlit
+pyngrok
+pandas
+tqdm
+nltk
+scikit-learn
